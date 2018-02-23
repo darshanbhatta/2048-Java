@@ -9,6 +9,6 @@
 
 ## Installation
 
-> Download the project file and open it with your favorite IDE. 
+> Download the project file and open it with your favorite IDE. To play use "w","a","s","d" to move (case sens for now).
 
 Created by: Darshan Bhatta
