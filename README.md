@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> This is the classic 2048 game written in console. GUI will be coming soon.
+> This is the classic 2048 game written in console.
 
 
 
